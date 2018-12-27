@@ -2,8 +2,8 @@
     <Source>
         <Name>ruby-win32-file-stat</Name>
         <Packager>
-            <Name>Jonathan Camara</Name>
-            <Email>jonathan@jonathancamara.com</Email>
+            <Name>F. von Gellhorn</Name>
+            <Email>flinux@vongellhorn.ch</Email>
         </Packager>
         <License>Artistic-2.0</License>
         <PartOf>programming.ruby</PartOf>
@@ -19,32 +19,32 @@
 </Description>
         <PartOf>programming.ruby</PartOf>
         <Files>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/build_info</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/doc</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/extensions</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/win32-file-stat-1.5.5/CHANGES</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/win32-file-stat-1.5.5/MANIFEST</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/win32-file-stat-1.5.5/README</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/win32-file-stat-1.5.5/Rakefile</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/win32-file-stat-1.5.5/appveyor.yml</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/win32-file-stat-1.5.5/certs/djberg96_pub.pem</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/win32-file-stat-1.5.5/lib/win32-file-stat.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/win32-file-stat-1.5.5/lib/win32/file/stat.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/win32-file-stat-1.5.5/lib/win32/file/windows/constants.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/win32-file-stat-1.5.5/lib/win32/file/windows/functions.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/win32-file-stat-1.5.5/lib/win32/file/windows/structs.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/win32-file-stat-1.5.5/test/test_file_stat.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/win32-file-stat-1.5.5/win32-file-stat.gemspec</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/specifications/win32-file-stat-1.5.5.gemspec</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/build_info</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/doc</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/extensions</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/win32-file-stat-1.5.5/CHANGES</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/win32-file-stat-1.5.5/MANIFEST</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/win32-file-stat-1.5.5/README</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/win32-file-stat-1.5.5/Rakefile</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/win32-file-stat-1.5.5/appveyor.yml</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/win32-file-stat-1.5.5/certs/djberg96_pub.pem</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/win32-file-stat-1.5.5/lib/win32-file-stat.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/win32-file-stat-1.5.5/lib/win32/file/stat.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/win32-file-stat-1.5.5/lib/win32/file/windows/constants.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/win32-file-stat-1.5.5/lib/win32/file/windows/functions.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/win32-file-stat-1.5.5/lib/win32/file/windows/structs.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/win32-file-stat-1.5.5/test/test_file_stat.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/win32-file-stat-1.5.5/win32-file-stat.gemspec</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/specifications/win32-file-stat-1.5.5.gemspec</Path>
         </Files>
     </Package>
     <History>
-        <Update release="1">
-            <Date>2018-06-03</Date>
+        <Update release="2">
+            <Date>2018-12-26</Date>
             <Version>1.5.5</Version>
             <Comment>Packaging update</Comment>
-            <Name>Jonathan Camara</Name>
-            <Email>jonathan@jonathancamara.com</Email>
+            <Name>F. von Gellhorn</Name>
+            <Email>flinux@vongellhorn.ch</Email>
         </Update>
     </History>
 </PISI>

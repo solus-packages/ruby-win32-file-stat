@@ -1,6 +1,6 @@
 name       : ruby-win32-file-stat
 version    : 1.5.5
-release    : 1
+release    : 2
 source     :
     - https://rubygems.org/downloads/win32-file-stat-1.5.5.gem : c890b9eda616c4465da13d0ebd9bef11988946b22ae224f752bda3c5a4f28351
 license    : Artistic-2.0
@@ -9,7 +9,7 @@ summary    : RubyGem - win32-file-stat
 description: |
     Ruby library with custom File::Stat class tailored for MS Windows
 builddeps  :
-    - pkgconfig(ruby-2.3)
+    - pkgconfig(ruby-2.6)
 rundeps    :
     - ruby-ffi
     - ruby-ffi-win32-extensions
